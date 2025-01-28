@@ -1,0 +1,14 @@
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\Exercicio40\bin\Debug\Exercicio40.exe.config
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\Exercicio40\bin\Debug\Exercicio40.exe
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\Exercicio40\bin\Debug\Exercicio40.pdb
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\Exercicio40\obj\Debug\Exercicio40.csproj.AssemblyReference.cache
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\Exercicio40\obj\Debug\Exercicio40.csproj.CoreCompileInputs.cache
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\Exercicio40\obj\Debug\Exercicio40.exe
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\Exercicio40\obj\Debug\Exercicio40.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\Exercicio40\bin\Debug\Exercicio40.exe.config
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\Exercicio40\bin\Debug\Exercicio40.exe
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\Exercicio40\bin\Debug\Exercicio40.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\Exercicio40\obj\Debug\Exercicio40.csproj.AssemblyReference.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\Exercicio40\obj\Debug\Exercicio40.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\Exercicio40\obj\Debug\Exercicio40.exe
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\Exercicio40\obj\Debug\Exercicio40.pdb

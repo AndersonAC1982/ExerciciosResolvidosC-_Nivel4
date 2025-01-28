@@ -1,0 +1,14 @@
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\MediaNumeroV2\bin\Debug\MediaNumeroV2.exe.config
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\MediaNumeroV2\bin\Debug\MediaNumeroV2.exe
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\MediaNumeroV2\bin\Debug\MediaNumeroV2.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\MediaNumeroV2\obj\Debug\MediaNumeroV2.csproj.AssemblyReference.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\MediaNumeroV2\obj\Debug\MediaNumeroV2.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\MediaNumeroV2\obj\Debug\MediaNumeroV2.exe
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\MediaNumeroV2\obj\Debug\MediaNumeroV2.pdb
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\MediaNumeroV2\bin\Debug\MediaNumeroV2.exe.config
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\MediaNumeroV2\bin\Debug\MediaNumeroV2.exe
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\MediaNumeroV2\bin\Debug\MediaNumeroV2.pdb
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\MediaNumeroV2\obj\Debug\MediaNumeroV2.csproj.AssemblyReference.cache
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\MediaNumeroV2\obj\Debug\MediaNumeroV2.csproj.CoreCompileInputs.cache
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\MediaNumeroV2\obj\Debug\MediaNumeroV2.exe
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\MediaNumeroV2\obj\Debug\MediaNumeroV2.pdb

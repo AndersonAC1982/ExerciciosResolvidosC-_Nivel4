@@ -1,0 +1,7 @@
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\Exercicio41\bin\Debug\Exercicio41.exe.config
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\Exercicio41\bin\Debug\Exercicio41.exe
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\Exercicio41\bin\Debug\Exercicio41.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\Exercicio41\obj\Debug\Exercicio41.csproj.AssemblyReference.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\Exercicio41\obj\Debug\Exercicio41.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\Exercicio41\obj\Debug\Exercicio41.exe
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\Exercicio41\obj\Debug\Exercicio41.pdb

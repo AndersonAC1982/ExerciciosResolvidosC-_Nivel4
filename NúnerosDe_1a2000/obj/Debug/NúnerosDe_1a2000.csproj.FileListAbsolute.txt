@@ -1,0 +1,7 @@
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\NúnerosDe_1a2000\bin\Debug\NúnerosDe_1a2000.exe.config
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\NúnerosDe_1a2000\bin\Debug\NúnerosDe_1a2000.exe
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\NúnerosDe_1a2000\bin\Debug\NúnerosDe_1a2000.pdb
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\NúnerosDe_1a2000\obj\Debug\NúnerosDe_1a2000.csproj.AssemblyReference.cache
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\NúnerosDe_1a2000\obj\Debug\NúnerosDe_1a2000.csproj.CoreCompileInputs.cache
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\NúnerosDe_1a2000\obj\Debug\NúnerosDe_1a2000.exe
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\NúnerosDe_1a2000\obj\Debug\NúnerosDe_1a2000.pdb

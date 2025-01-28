@@ -1,0 +1,7 @@
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\CalculadoraBaseNumerica\bin\Debug\CalculadoraBaseNumerica.exe.config
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\CalculadoraBaseNumerica\bin\Debug\CalculadoraBaseNumerica.exe
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\CalculadoraBaseNumerica\bin\Debug\CalculadoraBaseNumerica.pdb
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\CalculadoraBaseNumerica\obj\Debug\CalculadoraBaseNumerica.csproj.AssemblyReference.cache
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\CalculadoraBaseNumerica\obj\Debug\CalculadoraBaseNumerica.csproj.CoreCompileInputs.cache
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\CalculadoraBaseNumerica\obj\Debug\CalculadoraBaseNumerica.exe
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_4\CalculadoraBaseNumerica\obj\Debug\CalculadoraBaseNumerica.pdb
